@@ -5,3 +5,4 @@
 3. [Directory Size](https://github.com/tushrv/Exercise/blob/main/directory_size.py)
 4. [TensorFlow MNIST](https://github.com/tushrv/Exercise/blob/main/tf_mnist.ipynb)
 5. [Python Basics](https://github.com/tushrv/Exercise/blob/main/python_basics.ipynb)
+6. [Numpy & Pandas Basics](https://github.com/tushrv/Exercise/blob/main/numpy_and_pandas_basics.ipynb)
