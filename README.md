@@ -7,3 +7,4 @@
 5. [Python Basics](https://github.com/tushrv/Exercise/blob/main/python_basics.ipynb)
 6. [Numpy & Pandas Basics](https://github.com/tushrv/Exercise/blob/main/numpy_and_pandas_basics.ipynb)
 7. [Computational Graph](https://github.com/tushrv/Exercise/blob/main/Computational_graph.ipynb)
+8. [Computational Graph](https://github.com/tushrv/Exercise/blob/main/create_manim.ipynb)
